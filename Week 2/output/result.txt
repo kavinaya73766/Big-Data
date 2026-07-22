@@ -1,0 +1,7 @@
+Subject Count
+Commerce 12
+Computer 19
+English 19
+Maths 19
+Science 19
+Social 12
