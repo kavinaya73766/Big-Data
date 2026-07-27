@@ -1,0 +1,16 @@
+product_id,product_name,category,discounted_price,actual_price,discount_percentage,rating,rating_count,about_product
+1001,Echo Smart Speaker,Electronics,79.99,99.99,20,4.5,12500,Smart voice assistant speaker with high quality audio
+1002,Fire TV Streaming Stick,Electronics,29.99,49.99,40,4.4,18000,Streaming device with HD entertainment support
+1003,Wireless Bluetooth Headphones,Electronics,39.99,69.99,43,4.3,9500,Noise reduction wireless headphones
+1004,Gaming Laptop Pro,Electronics,1199.99,1499.99,20,4.6,3200,High performance laptop for gaming and development
+1005,Fitness Smart Watch,Electronics,59.99,99.99,40,4.2,8700,Smart watch with health tracking features
+1006,Running Shoes,Fashion,49.99,79.99,38,4.1,6400,Comfortable sports running shoes
+1007,Cotton T Shirt,Fashion,14.99,24.99,40,4.0,4200,Premium cotton casual wear
+1008,Leather Backpack,Fashion,69.99,119.99,42,4.4,3100,Durable backpack for travel and office
+1009,Coffee Maker,Home Appliances,89.99,129.99,31,4.5,7600,Automatic coffee brewing machine
+1010,Air Purifier,Home Appliances,149.99,199.99,25,4.3,5400,Indoor air quality improvement device
+1011,Mechanical Keyboard,Electronics,69.99,109.99,36,4.7,4200,RGB mechanical keyboard for programmers
+1012,Wireless Mouse,Electronics,19.99,39.99,50,4.2,11000,Ergonomic wireless mouse
+1013,Office Chair,Furniture,199.99,299.99,33,4.6,2300,Adjustable ergonomic office chair
+1014,Study Table,Furniture,129.99,179.99,28,4.1,1900,Wooden study table for home office
+1015,Tablet Device,Electronics,249.99,349.99,29,4.5,6800,Portable tablet for work and entertainment
